@@ -1,3 +1,6 @@
+// SEBASTIAN SANTIAGO OYOLA 
+//CCOM 3033
+
 #include <iostream>
 
 int main() {
